@@ -2,7 +2,7 @@
   "name": "demo-project",
   "version": "1.0.0",
   "description": "this is just a demo, go away",
-  "main": "index.js",
+  "main": "test.js",
   "scripts": {
     "test": "npm test"
   },
